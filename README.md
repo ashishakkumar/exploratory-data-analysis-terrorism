@@ -7,4 +7,4 @@
 
        -Task #1: Exploratory Data Analysis to find out the hot zone of terrorism
                  Software used: Jupyter Notebook
-                 Dataset given: www.linkedin.com/in/ashish-kumar-iitkgp
+                 Dataset given: https://bit.ly/2TK5Xn5
